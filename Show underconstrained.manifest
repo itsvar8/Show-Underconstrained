@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"0dd2e62c-76bc-40ba-8ceb-4a4d6c38a895",
+	"author":	"Andrea Varotto",
+	"description":	{
+		"":	"Helps find out non fully constrained elements. The button is in the sketch constraints panel."
+	},
+	"version":	"",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
